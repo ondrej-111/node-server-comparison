@@ -1,0 +1,46 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Node boilerplate",
+  "main": "dist/app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ondrej-111/node-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "boilderplate",
+    "API",
+    "REST",
+    "OpenApi"
+  ],
+  "author": "Ondrej Zoričák",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ondrej-111/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ondrej-111/node-boilerplate#readme",
+  "scripts": {
+    "test": "echo test"
+  },
+  "devDependencies": {
+    "@types/node": "~16.7.4",
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "concurrently": "~6.2.1",
+    "connect": "^3.7.0",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "express": "^4.17.1",
+    "koa": "^2.13.1",
+    "prettier": "^2.3.2",
+    "restify": "^8.5.1",
+    "ts-node": "~10.2.1",
+    "typescript": "~4.4.2"
+  },
+  "dependencies": {
+    "config": "~3.3.6"
+  }
+}

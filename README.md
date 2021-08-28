@@ -18,6 +18,6 @@ Required: apache2-utils
 # Most current results:
 
 - connect: Requests per second:    13011.21 [#/sec] (mean)
-- express: Requests per second:    5272.21 [#/sec] (mean)
 - koa: Requests per second:    11510.60 [#/sec] (mean)
 - restify: Requests per second:    8238.36 [#/sec] (mean)
+- express: Requests per second:    5272.21 [#/sec] (mean)
